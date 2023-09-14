@@ -1,0 +1,8 @@
+.env
+node_modules/
+dist/
+build/
+package-lock.json
+*.sqlite
+.eslintrc.js
+.prettierrc.js
